@@ -2,6 +2,6 @@
 
 Screen1            |  Screen2
 :-------------------------:|:-------------------------:
-![](https://avatars3.githubusercontent.com/u/9362840?s=400&u=db956c31d34ff82b90ef339ac957140f84d28b66&v=4)  |  ![](https://...Ocean.png)
+![](https://raw.githubusercontent.com/vasuvanka/flutter_domain_name_generator_app/master/app_screen1.png)  |  ![](https://raw.githubusercontent.com/vasuvanka/flutter_domain_name_generator_app/master/app_screen2.png)
 
 
